@@ -47,7 +47,7 @@ public, and you can read winning entries to learn what "good" looked like.
 
 Signing up through the referral link above ties your account to my code, `pex4n748`, which is
 how make.fun knows this guide sent you. (Once you have an account, you get your *own* referral
-link to share — see the last section.)
+link to share — see 'Earn with your own referral link' below.)
 
 ## Step 2 — Two one-time setups worth doing now
 
